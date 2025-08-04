@@ -14,7 +14,7 @@ Este projeto é um assistente em Streamlit que transforma perguntas em linguagem
 Antes de iniciar, é necessário ter instalado:
 
 - Python 3.8 ou superior
-- MySQL Server (com banco `testemaxima`)
+- MySQL Server (com banco `seu banco`)
 - Streamlit
 - Node.js (caso queira usar recursos mais avançados com frontend)
 - Pacotes Python listados no `requirements.txt`
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 No arquivo `app.py`, altere a linha com as variáveis de conexão para refletir suas credenciais:
 
 ```python
-user, password, host, port, database_name = 'root', 'SUA_SENHA', '127.0.0.1', '3306', 'testemaxima'
+user, password, host, port, database_name = 'root', 'SUA_SENHA', '127.0.0.1', '3306', 'database_name'
 ```
 
 ⚠️ Por segurança, recomenda-se usar variáveis de ambiente ou arquivos `.env` em produção.
