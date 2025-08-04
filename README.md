@@ -2,6 +2,8 @@
 
 Este projeto é um assistente em Streamlit que transforma perguntas em linguagem natural em consultas SQL, utilizando um modelo de linguagem da Google (Gemini) e executando as queries em um banco de dados MySQL. Além disso, os resultados podem ser exportados em formatos Excel e PDF com layouts profissionais.
 
+https://github.com/user-attachments/assets/07e64ddc-b603-4843-9285-e2307372909a
+
 ## 📌 Funcionalidades
 
 - Interface de chat com IA para gerar consultas SQL a partir de perguntas.
