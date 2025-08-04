@@ -7,7 +7,7 @@ Este projeto é um assistente em Streamlit que transforma perguntas em linguagem
 - Interface de chat com IA para gerar consultas SQL a partir de perguntas.
 - Execução segura apenas de comandos `SELECT`.
 - Conexão com banco de dados MySQL.
-- Exportação dos resultados para **Excel (.xlsx)** e **PDF (.pdf)** com layouts profissional e simples.
+- Exportação dos resultados para **Excel (.xlsx)** e **PDF (.pdf)** com layouts corporativo e simples.
 
 ## ⚙️ Requisitos
 
@@ -74,7 +74,7 @@ pip install weasyprint
 e siga as instruções do site oficial:  
 https://weasyprint.readthedocs.io/en/latest/install.html#windows
 
-## ▶️ Como Rodar
+## ▶ Como Rodar
 
 Execute o app com o Streamlit:
 
@@ -101,5 +101,4 @@ Este projeto é de uso livre para fins educacionais. Sinta-se à vontade para mo
 ## 💬 Contato
 
 **Lucas Sousa**  
-[LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-[E-mail](mailto:seuemail@example.com)
+[LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/lucasmoreirasousa/))  
