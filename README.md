@@ -4,8 +4,7 @@ Uma aplicação web inteligente construída com Streamlit e Google Gemini que pe
 
 ## Demonstração
 
-![Demonstração do ChatSQL](caminho/para/sua/imagem_da_tela.png)
-*(Dica: Grave um GIF ou tire um print da tela da sua aplicação em funcionamento e substitua o link acima para exibir uma demonstração visual.)*
+<img width="831" height="835" alt="image" src="https://github.com/user-attachments/assets/533fe7c0-9dce-486a-b05b-f0be0c46db0f" />
 
 ## Funcionalidades Principais
 
