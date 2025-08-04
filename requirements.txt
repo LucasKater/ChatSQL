@@ -1,0 +1,10 @@
+streamlit
+pandas
+sqlalchemy
+pymysql
+langchain
+langchain-community
+langchain-google-genai
+weasyprint
+xlsxwriter
+python-dotenv
