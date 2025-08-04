@@ -1,10 +1,11 @@
 # ChatSQL - IA para Consultas SQL
 
-Este projeto é um assistente em Streamlit que transforma perguntas em linguagem natural em consultas SQL, utilizando um modelo de linguagem da Google (Gemini) e executando as queries em um banco de dados MySQL. Além disso, os resultados podem ser exportados em formatos Excel e PDF com layouts profissionais.
+Este projeto é um assistente em Streamlit que transforma perguntas em linguagem natural em consultas SQL, utilizando um modelo de linguagem da Google (Gemini) e executando as queries no seu banco de dados MySQL. Além disso, os resultados podem ser exportados em formatos Excel e PDF com layouts profissionais ou personalizados de acordo com o usuário.
 
 
 
-https://github.com/user-attachments/assets/e4a6ea35-f2fc-442f-80c4-8cc8b02fdea8
+<img width="972" height="907" alt="image" src="https://github.com/user-attachments/assets/c25ecd49-6bdc-42ad-8a06-52f00e0531bb" />
+
 
 
 
@@ -107,4 +108,4 @@ Este projeto é de uso livre para fins educacionais. Sinta-se à vontade para mo
 ## 💬 Contato
 
 **Lucas Sousa**  
-[LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/lucasmoreirasousa/))  
+[LinkedIn](https://www.linkedin.com/in/lucasmoreirasousa/)
